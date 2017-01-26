@@ -1,5 +1,5 @@
-# UUID          Group Name
-False 	Non-Interactive Users
-40e201d0304efc1250d319609baeb08d5abd99a5       	puppet/puppet-logstash-distgit-core
-6c94bd0c2196e26e1316e54f8244b04268bd4546        	puppet/puppet-logstash-distgit-ptl
-global:Registered-Users		Registered Users
+# UUID                                  	Group Name
+#
+40e201d0304efc1250d319609baeb08d5abd99a5	puppet/puppet-logstash-distgit-core
+6c94bd0c2196e26e1316e54f8244b04268bd4546	puppet/puppet-logstash-distgit-ptl
+global:Registered-Users                 	Registered Users
