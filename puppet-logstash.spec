@@ -4,7 +4,7 @@ Name:                   puppet-logstash
 Version:                0.6.4
 Release:                1%{?dist}
 Summary:                Module for managing and configuring Logstash
-License:                Apache-2.0
+License:                ASL 2.0
 
 URL:                    https://github.com/elastic/puppet-logstash
 
