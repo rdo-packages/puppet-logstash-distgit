@@ -1,10 +1,10 @@
 # UUID Group Name
 global:Registered-Users	Registered Users
-fc7c2ee6bf2a7ad3540c5b812b4c144209607ca1	rdo-opm-core
-4572c517702492251ad622a289176552a8acbbb2	rdo-superusers
-cf8c49db57ce991d3913a197696ed590d3cf5a53	puppet/puppet-logstash-ptl
-global:Anonymous-Users	Anonymous Users
-05a678d3d4a168e149d5e8a0063bbd1b1c5526da	Administrators
-401cf37bee35d1c809d4d957e55f2a304f8eed69	rdo-provenpackagers
 6ddfecad023c6f4fa3ac8c4d2583c502ea675a73	Non-Interactive Users
 c6731c981b3069861e5149aa0b563011703dafba	puppet/puppet-logstash-core
+401cf37bee35d1c809d4d957e55f2a304f8eed69	rdo-provenpackagers
+global:Anonymous-Users	Anonymous Users
+cf8c49db57ce991d3913a197696ed590d3cf5a53	puppet/puppet-logstash-ptl
+fc7c2ee6bf2a7ad3540c5b812b4c144209607ca1	rdo-opm-core
+4572c517702492251ad622a289176552a8acbbb2	rdo-superusers
+05a678d3d4a168e149d5e8a0063bbd1b1c5526da	Administrators
